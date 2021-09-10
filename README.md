@@ -5,7 +5,7 @@
 
 
 ### Data Analyst
-* Woking at bigdata center at Kyungkki University
+* Woking at bigdata-center at Kyungkki University
 
 ### Interest
 * Machine Learning
