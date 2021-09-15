@@ -11,7 +11,7 @@
 * Machine Learning
 * Growth Hacking
 * Automation
-* Study everting
+* Study everyting
 
 ### The most confident language
 * Python
