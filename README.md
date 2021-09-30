@@ -15,7 +15,8 @@
 
 ### The most confident language
 * Python
-* Mysql
+* Mysql(Oracle)
+* R
 
 
 
