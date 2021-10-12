@@ -5,7 +5,7 @@
 
 
 ### Data Analyst
-* Woking at bigdata-center at Kyungkki University
+* Woking at KCB
 
 ### Interest
 * Machine Learning
@@ -17,7 +17,6 @@
 * Python
 * Mysql(Oracle)
 * R
-
 
 
 
