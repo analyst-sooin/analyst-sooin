@@ -5,7 +5,7 @@
 
 
 ### Data Analyst
-* Woking at KCB
+* Working at KCB
 
 ### Interest
 * Machine Learning
