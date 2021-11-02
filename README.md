@@ -5,13 +5,16 @@
 
 
 ### Data Analyst
-* Working at KCB
+* Working at Korea Credit Bureau
 
 ### Interest
 * Machine Learning
 * Growth Hacking
 * Automation
-* Study everyting
+* Data Engineering
+* Data Visualization
+* Server, Back-end ..
+* SQL
 
 ### The most confident language
 * Python
