@@ -13,13 +13,12 @@
 * Automation
 * Data Engineering
 * Data Visualization
-* Server, Back-end ..
-* SQL
+* Server, Back-end, SQL ..
+
 
 ### The most confident language
 * Python
 * Mysql(Oracle)
-* R
 
 
 
