@@ -15,6 +15,8 @@
 * Data Visualization
 * Server, Back-end, SQL ..
 
+### 
+FDS, RM and all of financial
 
 ### The most confident language
 * Python
