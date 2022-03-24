@@ -8,12 +8,10 @@
 * Working at Korea Credit Bureau
 
 ### Interest
-* Machine Learning
+* MLOps
 * Growth Hacking
 * Automation
 * Data Engineering
-* Data Visualization
-* Server, Back-end, SQL ..
 
 ### 
 FDS, RM and all of financial
