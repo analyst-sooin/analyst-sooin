@@ -5,20 +5,14 @@
 
 
 ### Data Analyst
-* Working at Korea Credit Bureau
+* Working at B2EN
 
 ### Interest
 * MLOps
-* Growth Hacking
 * Automation
 * Data Engineering
 
-### 
-FDS, RM and all of financial
 
-### The most confident language
-* Python
-* Mysql(Oracle)
 
 
 
