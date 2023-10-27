@@ -9,9 +9,9 @@
 
 ### Interest
 * MLOps
+* DevOps
 * Automation
 * Data Engineering
-
 
 
 
