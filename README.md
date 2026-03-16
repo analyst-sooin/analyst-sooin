@@ -4,10 +4,9 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://)](/)
 
 
-### 데이터 분석과 엔지니어 그리고 플랫폼 까지 다루고 있습니다.
-* 현재는 부동산 급매물 추출 서비스 스카이키을 개발하고있습니다.
-* 데이터와 플랫폼을 맡아서 진행하고있고, 프론트와 백엔드 개발하는 회사와 협업하여 진행하고있습니다.
-* www.skykey.co.kr 또는 네이버에 '스카이키'로 검색해주세요:) 
+### 
+* 부동산 급매물 추출 서비스 스카이키을 개발하고운 운영하고있습니다.
+* skykey.co.kr 또는 네이버에 '스카이키'로 검색해주세요.
 
 
 
